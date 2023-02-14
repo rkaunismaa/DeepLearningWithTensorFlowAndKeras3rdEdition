@@ -1,4 +1,8 @@
 .ipynb_checkpoints/
 data/
 datasets/
+corpora/
+fra-eng.zip
+fra-eng/
+
 
